@@ -1,6 +1,10 @@
 <?php
 
-phpinfo2();
+phpin;
 
 phpinfo1();
+
+weqwtqwtwqe
+  
+  qwetqwtqwt
 
