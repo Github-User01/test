@@ -1,4 +1,6 @@
 <?php
 
-phpinfo();
+phpinfo2();
+
+phpinfo1();
 
